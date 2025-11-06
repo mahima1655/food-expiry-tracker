@@ -13,7 +13,7 @@ A modern, responsive web application to track food items and their expiry dates 
 
 ## 🚀 Live Demo
 
-Visit the live application: [Food Expiry Tracker](https://yourusername.github.io/food-expiry-tracker)
+Visit the live application: [Food Expiry Tracker](https://mahima1655.github.io/food-expiry-tracker/)
 
 ## 🛠️ Technologies Used
 
