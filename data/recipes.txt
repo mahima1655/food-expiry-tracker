@@ -1,0 +1,10 @@
+Pancakes: milk, eggs
+Scrambled Eggs: eggs, milk
+Omelette: eggs
+Fruit Salad: apple, banana
+Sandwich: bread, cheese
+Pasta: pasta, cheese
+Smoothie: milk, banana
+Toast: bread
+Cereal: milk
+Salad: lettuce, tomato
