@@ -75,10 +75,6 @@ food-expiry-tracker/
 ├── index.html          # Main HTML file
 ├── style.css           # Styles and responsive design
 ├── script.js           # JavaScript functionality
-├── deploy.html         # Deployment instructions
-├── .github/
-│   └── workflows/
-│       └── deploy.yml  # GitHub Actions deployment
 └── README.md           # Project documentation
 ```
 
