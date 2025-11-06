@@ -24,18 +24,6 @@ Visit the live application: [Food Expiry Tracker](https://mahima1655.github.io/f
 - **Storage**: LocalStorage API
 - **AI Integration**: Ready for OpenAI API integration
 
-## 📱 Screenshots
-
-### Desktop View
-- Clean, modern interface with tabbed navigation
-- Real-time statistics in the header
-- Professional card-based layout
-
-### Mobile View
-- Fully responsive design
-- Touch-friendly interface
-- Optimized for mobile usage
-
 ## 🔧 Installation & Setup
 
 ### Option 1: GitHub Pages (Recommended)
@@ -66,7 +54,6 @@ To enable real AI recipe suggestions:
 3. Replace `YOUR_API_KEY` with your actual API key
 4. Deploy your changes
 
-**Note**: For security, consider using environment variables or a backend service for API keys in production.
 
 ## 📂 Project Structure
 
@@ -86,30 +73,5 @@ food-expiry-tracker/
 4. **Get Recipes**: AI-powered suggestions based on your ingredients
 5. **Search**: Use the search bar to find specific items
 
-## 🔒 Privacy & Data
 
-- All data is stored locally in your browser
-- No personal information is sent to external servers
-- AI recipe suggestions use only ingredient names (no personal data)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit changes: `git commit -am 'Add feature'`
-4. Push to branch: `git push origin feature-name`
-5. Submit a Pull Request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- Font Awesome for icons
-- Google Fonts for typography
-- OpenAI for AI integration capabilities
-
----
-
-**Made with ❤️ for reducing food waste and smart kitchen management**
