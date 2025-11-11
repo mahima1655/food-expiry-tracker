@@ -45,26 +45,6 @@ Visit the live application: [Food Expiry Tracker](https://mahima1655.github.io/f
    # Visit http://localhost:8000
    ```
 
-## 🤖 AI Integration
-
-To enable real AI recipe suggestions:
-
-1. Get an OpenAI API key from [OpenAI Platform](https://platform.openai.com/)
-2. In `script.js`, uncomment the API code in `fetchAIRecipes()`
-3. Replace `YOUR_API_KEY` with your actual API key
-4. Deploy your changes
-
-
-## 📂 Project Structure
-
-```
-food-expiry-tracker/
-├── index.html          # Main HTML file
-├── style.css           # Styles and responsive design
-├── script.js           # JavaScript functionality
-└── README.md           # Project documentation
-```
-
 ## 🎯 Usage
 
 1. **Add Food Items**: Click "Add Item" and fill in the food details
